@@ -1,0 +1,39 @@
+
+   .web{
+		background-color: #d677a8;
+		color: aliceblue;
+		height: auto;
+		width: 600px;
+		padding: 50px;
+		margin: 100px;
+		text-align: center;
+		}
+   .damilare-image {
+		border-radius: 200px;
+		/*cursor: pointer;box-shadow: 5px 5px 20px #ccc;*/
+		cursor: url(one.svg), url(two.svg) 5 5, progress;
+		}
+	body {
+	    margin: 8px;
+		margin-top: 8px;
+		margin-right: 8px;
+		margin-bottom: 8px;
+		margin-left: 8px
+		}
+	.name{
+		color:#0d100d;
+		font-size: 30px;
+		text-align: center;
+		}
+	.profile{
+		color:#0d100d;
+		font-size: 16px;
+		}
+	.handles{
+		text-align: center;
+		color:#0d100d;
+		}
+	#footer{
+		text-align: center;
+		color:#0d100d;
+		}
